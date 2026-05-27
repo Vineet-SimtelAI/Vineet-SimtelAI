@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Vineet Yadav</h1>
-<h3 align="center">AI Engineer | LLM Orchestration | RAG Pipelines | Multi-Agent Systems</h3>
+<h3 align="center">AI Engineer & Developer @ Simtel.AI | LLM Orchestration | RAG Pipelines | Web3 + AI Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Orchestration+Specialist;RAG+Pipelines+%7C+Multi-Agent+Workflows;LangChain+%7C+LangGraph+%7C+FastAPI;AI+Research+Intern+%40+IIT+Jodhpur+🔬;Building+Production-Grade+AI+Systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Simtel.AI+🚀;Building+Next-Gen+AI+%26+Web3+Infrastructure;LLM+Orchestration+%7C+RAG+Pipelines+%7C+Multi-Agent+Systems;Enterprise+AI+%7C+Digital+Transformation+%7C+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@
   <a href="mailto:vineet.ggu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://www.simtel.ai">
+    <img src="https://img.shields.io/badge/Simtel.AI-Visit-6C63FF?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,78 +24,59 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Final-year **B.Tech student** at Guru Ghasidas Vishwavidyalaya (Central University), Bilaspur, India
-- 🔬 Currently working as **AI Research Intern at IIT Jodhpur**
-- 💼 **1+ year of AI Engineering experience** specialising in LLM orchestration & RAG pipelines
-- 🤖 Passionate about building **production-grade Multi-Agent AI Systems**
-- 🧠 Research experience in **Deep Learning & Explainable AI for Medical Imaging**
-- 🌍 Based in **Bilaspur, India**
+- 💼 Currently working as **AI Engineer & Developer @ Simtel.AI** — Bengaluru, Karnataka
+- 🔬 **AI Research Intern @ IIT Jodhpur**
+- 🤖 Building **Next-Generation AI & Web3 Infrastructure** for enterprises
+- 🚀 Specialising in **LLM Orchestration, RAG Pipelines & Multi-Agent Systems**
+- 🧠 Passionate about **Enterprise AI, Automation & Digital Transformation**
 - 📫 Reach me at: **vineet.ggu@gmail.com**
 - ⚡ Fun fact: **I build AI agents that think, reason, and act autonomously!**
 
 ---
 
-## 💼 Work Experience
+## 🏢 Currently @ Simtel.AI
+
+<p align="center">
+  <a href="https://www.simtel.ai">
+    <img src="https://img.shields.io/badge/Simtel.AI-Innovation%20Driven%20AI%20%26%20Web3%20Platform-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+> 🌐 **Simtel.AI** is an innovation-driven **AI & Web3 platform company** building next-generation intelligent infrastructure for enterprises. Founded in **2023**, headquartered in **Bengaluru, India**.
+
+### 🔧 What I Do at Simtel.AI:
+- 🤖 Building **intelligent AI systems** for enterprise automation & digital transformation
+- 🔗 Developing solutions leveraging **Artificial Intelligence + Decentralized (Web3) technologies**
+- 🧠 Designing & deploying **LLM-powered pipelines** for real-world business use cases
+- ⚙️ Building **Multi-Agent workflows** using LangChain & LangGraph
+- 🌐 Developing **FastAPI backends** and **Streamlit frontends** for AI-powered applications
+- 📦 Working on **RAG pipelines** for enterprise knowledge retrieval systems
+- 🚀 Contributing to **next-gen AI infrastructure** for business growth & automation
+
+### 🛠️ Tech Stack at Simtel.AI:
+`Python` `LangChain` `LangGraph` `FastAPI` `Streamlit` `OpenAI API` `Gemini API` `Groq` `ChromaDB` `FAISS` `Vector Embeddings` `RAG` `Web3` `Docker`
+
+---
+
+## 💼 Previous Experience
 
 ### 🏛️ AI Research Intern — IIT Jodhpur *(Present)*
-- Currently working on cutting-edge **AI Research** at one of India's premier technical institutions
-- Exploring advanced **AI/ML methodologies** and contributing to research publications
+- Working on cutting-edge **AI Research** at one of India's premier technical institutions
+- Exploring advanced **AI/ML methodologies** and contributing to research work
 
 ### 🔬 AI/ML Research Intern — Ganpat University *(Jan 2026 – Feb 2026)*
-- Developed automated **bone fracture detection** using Transfer Learning on MURA dataset (40,561 radiographs)
+- Developed **bone fracture detection** using Transfer Learning on MURA dataset (40,561 radiographs)
 - **InceptionV3 achieved 92.99% accuracy & 0.9928 AUC** across 7 anatomical parts
-- Applied **Grad-CAM heatmaps** for clinical explainability & unsupervised clustering for severity stratification
+- Applied **Grad-CAM heatmaps** for clinical explainability
 
 ### 🤖 AI Intern — AgenixAI *(Jan 2025 – Jan 2026)*
 - Promoted from Data Science & ML Intern within **6 months**
-- Designed **LLM-based AI solutions** using LangChain & LangGraph for production-grade multi-agent architectures
-- Optimised prompt engineering strategies improving **LLM response accuracy by 30–40%**
-- Delivered end-to-end AI projects covering data ingestion, model orchestration & FastAPI deployment
+- Improved **LLM response accuracy by 30–40%** via prompt engineering
+- Delivered end-to-end AI projects with **FastAPI deployment**
 
 ### 📊 Data Science Intern — Zidio Development *(May 2024 – July 2024)*
 - Conducted EDA on **10,000+ record datasets**
-- Built preprocessing pipelines & developed **10+ dashboards** for technical and non-technical stakeholders
-
----
-
-## 🚀 Featured Projects
-
-### 🧪 Chemical Engineering RAG System
-> AI-Powered Knowledge Retrieval using RAG Pipeline
-- Built RAG pipeline on **6 textbooks (1,666 chunks, ChromaDB)**
-- Achieved **~90% improvement** in answer relevance over vanilla LLM
-- Hybrid retrieval (semantic + internet search) with PDF/DOCX export
-
-`Python` `LangChain` `ChromaDB` `Vector Embeddings` `Streamlit`
-
----
-
-### 🏥 Food & Medical Report Analyzer *(AgenixAI)*
-> Multi-Modal Healthcare AI System
-- **LangGraph multi-agent workflow** orchestrating Vision LLM (food analysis) + Text LLM (medical report)
-- Reduced manual interpretation effort by **40%**
-- Deployed via **FastAPI REST API** and Streamlit
-
-`Python` `LangGraph` `Gemini Vision` `Groq LLM` `FastAPI` `Streamlit`
-
----
-
-### 📉 Customer Churn Prediction System
-> End-to-End ML Pipeline
-- Trained & benchmarked **14 models** (XGBoost, LightGBM, CatBoost, Stacking Classifier)
-- Applied **SMOTE, GridSearchCV, SHAP explainability** & pytest suite
-- Deployed via **GitHub Actions** with Streamlit app
-
-`Python` `XGBoost` `LightGBM` `SHAP` `Streamlit` `GitHub Actions`
-
----
-
-### 🦴 Explainable AI for Bone Fracture Diagnosis
-> Research Project — Ganpat University
-- Benchmarked **6 CNN architectures** on MURA dataset (40,561 radiographs)
-- **InceptionV3: 92.99% accuracy, 0.9928 AUC**
-- Applied **Grad-CAM** heatmaps for clinical explainability
-
-`TensorFlow` `Keras` `CNNs` `Transfer Learning` `Grad-CAM`
+- Built **10+ dashboards** for technical and non-technical stakeholders
 
 ---
 
@@ -105,12 +89,15 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+### 🌐 Web3 & Decentralized Tech
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+
 ### 🧠 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 
 ### 📊 ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -160,11 +147,14 @@
   <a href="https://github.com/Vineet3693">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.simtel.ai">
+    <img src="https://img.shields.io/badge/Simtel.AI-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">💡 "Building intelligent systems that solve real-world problems, one model at a time." 💡</h3>
+<h3 align="center">💡 "Building next-generation AI & Web3 infrastructure, one intelligent system at a time." 💡</h3>
 
 <p align="center">
   ⭐ <b>If you find my work interesting, don't forget to star the repositories!</b> ⭐
