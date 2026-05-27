@@ -23,7 +23,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Final-year **B.Tech student** at Guru Ghasidas Vishwavidyalaya (Central University), Bilaspur, India
 - 💼 Currently working as **AI Engineer & Developer @ Simtel.AI** — Bengaluru, Karnataka
 - 🔬 **AI Research Intern @ IIT Jodhpur**
 - 🤖 Building **Next-Generation AI & Web3 Infrastructure** for enterprises
@@ -49,8 +48,6 @@
 - 🔗 Developing solutions leveraging **Artificial Intelligence + Decentralized (Web3) technologies**
 - 🧠 Designing & deploying **LLM-powered pipelines** for real-world business use cases
 - ⚙️ Building **Multi-Agent workflows** using LangChain & LangGraph
-- 🌐 Developing **FastAPI backends** and **Streamlit frontends** for AI-powered applications
-- 📦 Working on **RAG pipelines** for enterprise knowledge retrieval systems
 - 🚀 Contributing to **next-gen AI infrastructure** for business growth & automation
 
 ### 🛠️ Tech Stack at Simtel.AI:
