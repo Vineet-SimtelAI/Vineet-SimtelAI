@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vineet Yadav</h1>
-<h3 align="center">AI Engineer & Developer @ Simtel.AI | LLM Orchestration | RAG Pipelines | Web3 + AI Infrastructure</h3>
+<h3 align="center">AI Engineer & Developer @ Simtel.AI | LLM Orchestration & AI Infrastructure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+Simtel.AI+🚀;Building+Next-Gen+AI+%26+Web3+Infrastructure;LLM+Orchestration+%7C+RAG+Pipelines+%7C+Multi-Agent+Systems;Enterprise+AI+%7C+Digital+Transformation+%7C+Automation" alt="Typing SVG" />
@@ -50,11 +50,6 @@
 - ⚙️ Building **Multi-Agent workflows** using LangChain & LangGraph
 - 🚀 Contributing to **next-gen AI infrastructure** for business growth & automation
 
-### 🛠️ Tech Stack at Simtel.AI:
-`Python` `LangChain` `LangGraph` `FastAPI` `Streamlit` `OpenAI API` `Gemini API` `Groq` `ChromaDB` `FAISS` `Vector Embeddings` `RAG` `Web3` `Docker`
-
----
-
 ## 💼 Previous Experience
 
 ### 🏛️ AI Research Intern — IIT Jodhpur *(Present)*
@@ -86,9 +81,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🌐 Web3 & Decentralized Tech
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 ### 🧠 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -117,20 +109,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineet's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet3693&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
